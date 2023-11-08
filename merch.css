@@ -1,0 +1,28 @@
+.special
+ {
+ font-size: 70px;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  }
+
+ h1
+  {
+ font-size: 40px;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  }
+
+
+
+.center-pic{
+  display: flex;
+  justify-content: center;
+}
+
+.ph{
+  padding-left: 480px;
+  padding-right: 50px;
+}
+
+td {
+color: white}

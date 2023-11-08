@@ -1,0 +1,31 @@
+textarea {
+  resize: none;
+}
+
+.special
+ {
+ font-size: 70px;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  }
+
+  .cont
+  {
+ font-size: 40px;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  }
+.mail
+{
+color: green}
+
+h2, h3, form, p {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.center-pic{
+  display: flex;
+  justify-content: center;
+
+}
